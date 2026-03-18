@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SN65HVD230DR")(type "KiCad")(uri "${KIPRJMOD}/SN65HVD230DR.pretty")(options "")(descr ""))
+)

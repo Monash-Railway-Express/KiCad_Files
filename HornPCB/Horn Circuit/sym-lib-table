@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN65HVD230_Board")(type "KiCad")(uri "${KIPRJMOD}/SN65HVD230_Board.kicad_sym")(options "")(descr ""))
+)
