@@ -512,7 +512,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "DriverControls_Gerbers/",
+      "plot": "wireframe/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
